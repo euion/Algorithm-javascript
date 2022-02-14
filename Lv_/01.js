@@ -1,6 +1,3 @@
-var arr = [5, 6, 7, 10];
-var divisor = 5;
-
 function solution(arr, divisor) {
   var answer = [];
 
