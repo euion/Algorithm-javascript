@@ -13,4 +13,4 @@ readline.on('line', function(line) {
     const B = parseInt(input[1]);
     console.log(A+B);
     process.exit();
-});
+}); 
